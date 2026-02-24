@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rplidar_driver", "..\..\..\rplidar_sdk\workspaces\vc14\rplidar_driver\rplidar_driver.vcxproj", "{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ultra_simple", "..\..\..\rplidar_sdk\workspaces\vc14\ultra_simple\ultra_simple.vcxproj", "{6AE94E9D-442B-493D-ADE7-78E64E8695CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Debug|x64.ActiveCfg = Debug|x64
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Debug|x64.Build.0 = Debug|x64
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Debug|x86.Build.0 = Debug|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Release|x64.ActiveCfg = Release|x64
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Release|x64.Build.0 = Release|x64
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Release|x86.ActiveCfg = Release|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Release|x86.Build.0 = Release|Win32
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Debug|x64.ActiveCfg = Debug|x64
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Debug|x64.Build.0 = Debug|x64
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Debug|x86.Build.0 = Debug|Win32
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Release|x64.ActiveCfg = Release|x64
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Release|x64.Build.0 = Release|x64
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Release|x86.ActiveCfg = Release|Win32
+		{6AE94E9D-442B-493D-ADE7-78E64E8695CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8281981E-4301-433A-97A6-F525FBF83BFF}
+	EndGlobalSection
+EndGlobal

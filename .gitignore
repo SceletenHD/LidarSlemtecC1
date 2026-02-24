@@ -41,5 +41,7 @@
 *.dwo
 
 # generated folders
-./output
-./obj
+output/
+obj/
+workspace/.vs
+workspace/LidarExperiment/.vs
